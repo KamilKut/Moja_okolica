@@ -18,14 +18,14 @@ header{
     font-weight: bold;
 }
 h2{
-    color:#4B0082;
+    color:Indigo;
     text-align: center;
     margin-top: 0px;
 }
 .tytuly{
     height:70px;
     width:350px;
-    background-color:#F0F8FF;
+    background-color:lightblue;
     display: flex;
     justify-content: center;
     align-items: center;
